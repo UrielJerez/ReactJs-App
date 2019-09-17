@@ -10,6 +10,16 @@ background: linear-gradient(to right, #514A9D, #24C6DC); /* W3C, IE 10+/ Edge, F
   height: 120px;
 }
 
+.tec{
+  animation: App-logo-spin infinite 10s linear;
+ margin: 69px;
+ position: fixed;
+ bottom: 2%;
+ left: 0;
+ width: 275px;
+ border: 2px
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }

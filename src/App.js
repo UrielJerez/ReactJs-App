@@ -81,6 +81,7 @@ class App extends Component {
 
             <div className="col-md-4 text-center">
                 <img src={logo} className="App-logo" alt="logo" />
+                <img src="https://lcrnoticias.files.wordpress.com/2018/09/logo-tecnm-2017.png" className="tec" alt="logo" />
               <TodoForm onAddTodo={this.handleAddTodo}></TodoForm>
             </div>
 
